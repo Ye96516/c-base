@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\cpp_project\左移运算符\左移运算符\main.cpp(17,13): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+D:\cpp_project\左移运算符\左移运算符\main.cpp(22,10): warning C4305: “初始化”: 从“double”到“float”截断
+  左移运算符.vcxproj -> D:\cpp_project\左移运算符\x64\Debug\左移运算符.exe

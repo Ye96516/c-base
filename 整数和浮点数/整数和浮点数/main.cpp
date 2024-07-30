@@ -18,5 +18,6 @@ int main() {
 	if (fabs(qi -1)<x) {
 		cout << 666;
 	}
+
 	return 0;
 }

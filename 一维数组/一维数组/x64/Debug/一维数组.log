@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\cpp_project\一维数组\一维数组\main.cpp(5,6): warning C4101: “a”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(8,6): warning C4101: “x1”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(8,22): warning C4101: “x4”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(6,9): warning C4101: “b”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(8,26): warning C4101: “x3”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(8,30): warning C4101: “x5”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(7,7): warning C4101: “c”: 未引用的局部变量
+D:\cpp_project\一维数组\一维数组\main.cpp(8,14): warning C4101: “x2”: 未引用的局部变量
+  一维数组.vcxproj -> D:\cpp_project\一维数组\x64\Debug\一维数组.exe

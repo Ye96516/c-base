@@ -1,0 +1,3 @@
+﻿  mian.cpp
+D:\cpp_project\按位取反\按位取反\mian.cpp(6,12): warning C4309: “初始化”: 截断常量值
+  按位取反.vcxproj -> D:\cpp_project\按位取反\x64\Debug\按位取反.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\cpp_project\整数和浮点数\整数和浮点数\main.cpp(8,10): warning C4305: “初始化”: 从“double”到“float”截断
+D:\cpp_project\整数和浮点数\整数和浮点数\main.cpp(10,10): warning C4305: “初始化”: 从“double”到“float”截断
+  整数和浮点数.vcxproj -> D:\cpp_project\整数和浮点数\x64\Debug\整数和浮点数.exe

@@ -8,6 +8,5 @@ int main() {
 	cout << 666 ;
 	return -1;
 }
-
 	return 0;
 }
